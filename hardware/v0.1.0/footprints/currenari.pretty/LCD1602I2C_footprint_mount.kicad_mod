@@ -1,0 +1,107 @@
+(footprint "LCD1602I2C_footprint_mount"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Through hole angled socket strip, 1x04, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated")
+	(tags "Through hole angled socket strip THT 1x04 2.54mm single row")
+	(property "Reference" "REF**"
+		(at -29.085 -23.9 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5d552ea1-5a8a-43c4-8c10-105251c080a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LCD1602I2C_footprint_mount"
+		(at 12.7 2.54 0)
+		(layer "F.Fab")
+		(uuid "366472ce-c3b5-4bb0-9ff2-8e21a7b98f0e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "682a06b7-7700-4e66-8571-92879be94960")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b223a71-233b-4a7b-bdcc-0ca9ad5a1130")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start 0 -36)
+		(end 80 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "07169700-3698-491f-8f5a-f7472b77a7b1")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.5 -33.5)
+		(size 3.2 3.2)
+		(drill 3.2)
+		(layers "*.Mask")
+		(uuid "285f748c-6b8a-46c0-a6f1-bf89831fe26c")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.5 -2.5)
+		(size 3.2 3.2)
+		(drill 3.2)
+		(layers "*.Mask")
+		(uuid "e1f8bb50-5cce-4993-91ce-ee1754900320")
+	)
+	(pad "" np_thru_hole circle
+		(at 77.5 -33.5)
+		(size 3.2 3.2)
+		(drill 3.2)
+		(layers "*.Mask")
+		(uuid "f536060b-319f-42ab-bd35-e604c9f2958f")
+	)
+	(pad "" np_thru_hole circle
+		(at 77.5 -2.5)
+		(size 3.2 3.2)
+		(drill 3.2)
+		(layers "*.Mask")
+		(uuid "f3b2dede-8122-4e9e-9ff0-3f8182b663a9")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
