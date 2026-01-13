@@ -6,4 +6,15 @@ This repository contains the reference implementation of the device, including f
 
 ## Repository contents
 
-The contents of this repository will be documented as components are added.
+binaries/
+  Versioned reference firmware binaries for flashing Spectrum One hardware.
+
+firmware/
+  ESP-IDF firmware source code, organised by release version.
+
+hardware/
+  KiCad schematic, PCB layout, symbols, footprints, and fabrication files, organised by release version.
+
+## Status
+
+Current reference release: v0.1.0
