@@ -18,3 +18,7 @@ hardware/
 ## Status
 
 Current reference release: v0.1.0
+
+### See OVERVIEW for project background and licensing details.
+
+
