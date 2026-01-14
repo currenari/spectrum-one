@@ -1,64 +1,161 @@
 # LICENSE
-This project contains multiple types of material. Each is licensed separately and explicitly as defined below.
 
-## BOOKS, MANUSCRIPTS, AND WRITTEN CONTENT
-All written content including but not limited to:
+This repository contains multiple categories of material.
+Each category is licensed separately and explicitly as defined below.
 
-Manuscripts
-Books (print and digital)
-PDF, EPUB, MOBI, AZW, DOCX, and any other formats
-Text, explanations, and diagrams as presented in the books
-Editorial structure, instructional flow, and presentation
-Copyright © 2026 Jarosław Reszka. Published under the pen name Jay J. Reszka. All rights reserved.
+---
 
-This material is proprietary and protected by copyright law.
+## What This License Covers
 
-No part of the written content may be copied, reproduced, distributed, translated, adapted, or reused in any form without explicit written permission from the copyright holder, except where permitted by applicable copyright law.
+The licenses defined in this document apply only to files and materials
+physically present within this repository.
 
-All commercial rights, including resale and inclusion in other works, are exclusively reserved to the copyright holder.
+Any books, manuscripts, commercial publications, or other written works
+that are not included in this repository are explicitly excluded from
+these licenses and are not licensed under any terms described here.
 
-## SOURCE CODE AND BINARIES
-All source code and compiled binaries provided in this repository are licensed under the MIT License.
+Books and commercial publications are intentionally distributed outside
+of this repository and remain proprietary. Revenue from these works
+supports the development and maintenance of this project and future
+projects.
+
+---
+
+## 1. BOOKS, MANUSCRIPTS, AND COMMERCIAL WRITTEN WORKS
+
+All long-form written works created by the author, including but not
+limited to:
+
+- Books (print and digital)
+- Manuscripts and drafts
+- PDF, EPUB, MOBI, AZW, DOCX, and similar formats
+- Editorial structure, instructional flow, and presentation as published
+- Text, diagrams, and photography as presented in commercial publications
+
+are proprietary works.
+
+Copyright © 2026 Jarosław Reszka  
+Published under the pen name Jay J. Reszka  
+Released under the Currenari Lab label  
+All rights reserved.
+
+This material is protected by copyright law. No part of it may be copied,
+reproduced, distributed, translated, adapted, or reused without explicit
+written permission from the copyright holder, except where permitted by
+applicable law.
+
+This section does not apply to repository-level documentation files
+required for open hardware compliance.
+
+---
+
+## 2. REPOSITORY DOCUMENTATION
+
+Documentation files contained within this repository, including but not
+limited to:
+
+- README.md files
+- Markdown documentation under the docs directory
+- Build notes, usage instructions, and explanatory text accompanying the
+  hardware and firmware
+
+are licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0).
+
+This license applies only to documentation necessary to describe, build,
+and reproduce the open hardware and software contained in this
+repository.
+
+This license does not apply to any books, manuscripts, or commercial
+publications, which are explicitly excluded and remain proprietary.
+
+---
+
+## 3. SOURCE CODE AND BINARIES
+
+All source code and compiled binaries provided in this repository are
+licensed under the MIT License.
 
 Copyright (c) 2026 Jarosław Reszka
 
-MIT License
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files to deal in the
+software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the software, subject to the following conditions:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and or sell copies of the Software, subject to the following conditions:
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the software.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The software is provided “as is”, without warranty of any kind, express
+or implied.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+---
 
-## HARDWARE DESIGNS, GERBERS, AND SCHEMATICS
-All hardware design files including but not limited to:
+## 4. HARDWARE DESIGNS, GERBERS, AND SCHEMATICS
 
-Schematics
-PCB layouts
-Gerber files
-Bills of materials
-Mechanical or electrical design files
-are licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S).
+All hardware design files provided in this repository, including but not
+limited to:
 
-You are free to use, modify, manufacture, and distribute these hardware designs under the terms of that license.
+- Schematics
+- PCB layouts
+- Gerber files
+- Bills of materials
+- Electrical and mechanical design files
 
-The full text of the CERN Open Hardware Licence Version 2 - Strongly Reciprocal applies.
+are licensed under the CERN Open Hardware Licence Version 2 – Strongly
+Reciprocal (CERN-OHL-S-2.0).
 
-## COMMERCIAL BUILDS AND PHYSICAL PRODUCTS
-The copyright holder may sell physical builds, assembled devices, and related products derived from the open hardware designs.
+You are free to use, modify, manufacture, and distribute these hardware
+designs under the terms of that license. Any modifications or derived
+hardware designs must be released under the same license.
 
-Third parties may also manufacture hardware under the applicable open hardware license terms.
+---
 
-The sale of physical hardware does not grant any rights to the proprietary written content.
+## 5. COMMERCIAL BUILDS AND PHYSICAL PRODUCTS
 
-## SEPARATION OF RIGHTS
-Written content is proprietary and not open source.
-Source code is open source under the MIT License.
-Hardware designs are open source under CERN-OHL-S.
-Open source licensing of code and hardware does not grant rights to the books or written material.
-Purchase of books or hardware does not grant redistribution rights.
+The copyright holder may manufacture, sell, and distribute physical
+devices and assembled products derived from the open hardware designs.
 
-## TRADEMARKS AND NAMES
-Project names, product names, logos, and branding may be protected by trademark or common law rights and are not granted by this license unless explicitly stated.
+Third parties may also manufacture and sell hardware under the terms of
+the applicable open hardware license.
+
+The sale or purchase of physical hardware does not grant any rights to
+proprietary written works or commercial publications.
+
+---
+
+## 6. SEPARATION OF RIGHTS
+
+The following applies, in order of scope:
+
+- Files and materials contained within this repository are licensed only
+  under the terms explicitly defined in this document
+
+- Repository documentation is licensed under CC BY 4.0
+
+- Source code is licensed under the MIT License
+
+- Hardware design files are licensed under CERN-OHL-S-2.0
+
+- Books, manuscripts, commercial publications, and their associated text,
+  photographs, diagrams, graphics, and layouts that are not included in
+  this repository are proprietary and not licensed under the terms
+  defined here
+
+Licensing of one category does not grant rights to any other category.
+
+---
+
+## 7. TRADEMARKS AND NAMES
+
+Project names, product names, logos, and branding may be protected by
+trademark or common law rights.
+
+No trademark rights are granted by this license unless explicitly stated.
+
+---
 
 END OF LICENSE
+
+

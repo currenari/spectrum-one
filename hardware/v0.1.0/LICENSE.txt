@@ -1,0 +1,5 @@
+Hardware design files in this directory are licensed under the
+CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0).
+
+See the repository root LICENSE.md for full licensing terms.
+

@@ -1,24 +1,85 @@
 # Spectrum One
 
-Spectrum One is an ESP32 based WiFi activity monitor designed to observe and visualise nearby WiFi signal activity using direct RSSI measurements.
+Spectrum One is a compact ESP32 based WiFi activity monitor that visualises
+nearby WiFi activity using a 16x2 LCD and a 10 segment LED bar.
 
-This repository contains the reference implementation of the device, including firmware source code, hardware design files, and supporting materials required to build and understand the system as documented.
+It makes RF behaviour more observable through repeated WiFi scans. Values shown
+are derived from WiFi RSSI and are intended for visualisation and comparison,
+not calibrated RF measurement.
+
+This repository contains the reference implementation of the device.
+
+---
 
 ## Repository contents
 
-binaries/
-  Versioned reference firmware binaries for flashing Spectrum One hardware.
+The repository is organised by release version and contains:
 
-firmware/
-  ESP-IDF firmware source code, organised by release version.
+binaries/  
+Versioned reference firmware binaries for flashing Spectrum One hardware.
 
-hardware/
-  KiCad schematic, PCB layout, symbols, footprints, and fabrication files, organised by release version.
+firmware/  
+ESP-IDF firmware source code.
 
-## Status
+hardware/  
+KiCad schematics, PCB layouts, symbols, footprints, and fabrication outputs.
 
-Current reference release: v0.1.0
+docs/  
+Repository documentation and technical notes.
 
-### See OVERVIEW for project background and licensing details.
+media/  
+Images and diagrams used by the repository documentation.
+
+---
+
+## What this repository does not contain
+
+This repository intentionally does not include:
+
+- Book text or manuscripts
+- Long-form instructional chapters
+- Commercial publication layouts
+- Book-specific photography or artwork
+
+These materials are distributed separately.
+
+---
+
+## About the book
+
+A separate book documents the development of Spectrum One from early breadboard
+prototypes through to a finished PCB reference build.
+
+The book covers hardware design decisions, firmware behaviour, display logic,
+and the transition from experimental prototyping to a reproducible open
+hardware design.
+
+The book is published separately under the title:
+
+ESP32 WiFi Activity Monitor: Spectrum One – From Breadboard Prototype to Custom PCB  
+by Jay J. Reszka
+
+The book is a commercial publication and is not included in this repository.
+
+---
+
+## Licensing
+
+Licensing is separated by material type:
+
+- Firmware source code and binaries  
+  MIT License
+
+- Hardware design files  
+  CERN Open Hardware Licence v2.0 – Strongly Reciprocal (CERN-OHL-S-2.0)
+
+- Repository documentation and media  
+  Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+- Books and commercial written works  
+  Proprietary. All rights reserved.
+
+Full licensing terms are defined in `LICENSE.md`.
+
 
 

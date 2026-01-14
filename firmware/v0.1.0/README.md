@@ -1,18 +1,21 @@
 # Spectrum One Firmware v0.1.0
 
-This folder contains the ESP-IDF firmware source for Spectrum One release v0.1.0.
+This directory contains the firmware source for Spectrum One release v0.1.0,
+implemented as an ESP-IDF application for the ESP32 platform.
 
-The project is a complete, self-contained ESP-IDF application intended to be built and flashed onto an ESP32 running the Spectrum One hardware.
+The firmware is built and flashed using Espressif’s ESP-IDF toolchain, which is
+the supported and documented development environment for this project.
 
-The firmware performs repeated WiFi scans and visualises observed activity using an LCD and LED bar.
+Its function is to perform repeated WiFi scans and visualise observed activity
+using an LCD and LED bar display.
 
 ## Build environment
 
-ESP-IDF is required.
-
-The firmware is intended to be built using a standard ESP-IDF workflow.
+ESP-IDF is the supported build environment.
 
 ## Notes
 
-This firmware is designed to observe and visualise WiFi behaviour.
-It is not intended to provide calibrated RF measurements.
+This firmware is intended to observe and visualise WiFi activity.
+It does not provide calibrated RF measurements.
+
+

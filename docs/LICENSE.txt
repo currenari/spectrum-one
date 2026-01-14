@@ -1,0 +1,4 @@
+Documentation files in this directory are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+See the repository root LICENSE.md for full licensing terms.
