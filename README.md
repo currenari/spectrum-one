@@ -45,6 +45,19 @@ These materials are distributed separately.
 
 ---
 
+## Hardware Assembly
+
+This repository provides minimal assembly documentation to support reproduction of the open hardware design.
+
+General assembly information is provided in `ASSEMBLY.md` at the repository root.
+
+Version-specific assembly notes are located under:
+- `hardware/v0.1.0/ASSEMBLY.md`
+
+Full system design context and development documentation are provided separately in the published book.
+
+---
+
 ## About the book
 
 A separate book documents the development of Spectrum One from early breadboard
