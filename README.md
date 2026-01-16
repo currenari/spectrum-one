@@ -5,9 +5,19 @@ nearby WiFi activity using a 16x2 LCD and a 10 segment LED bar.
 
 It makes RF behaviour more observable through repeated WiFi scans. Values shown
 are derived from WiFi RSSI and are intended for visualisation and comparison,
-not calibrated RF measurement.
+not intended as calibrated RF measurement.
 
 This repository contains the reference implementation of the device.
+
+---
+
+## Open Hardware Certification
+
+[![OSHWA certification mark](media/certification/oshwa/certification-mark-UK000086-wide.png)](https://certification.oshwa.org/uk000086.html)
+
+OSHWA UID: UK000086
+Full record: CERTIFICATION.md
+Certified hardware version: 0.1.0
 
 ---
 
