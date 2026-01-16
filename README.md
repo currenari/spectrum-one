@@ -13,7 +13,9 @@ This repository contains the reference implementation of the device.
 
 ## Open Hardware Certification
 
-[![OSHWA certification mark](media/certification/oshwa/certification-mark-UK000086-wide.png)](https://certification.oshwa.org/uk000086.html)
+<a href="https://certification.oshwa.org/uk000086.html">
+  <img src="media/certification/oshwa/certification-mark-UK000086-wide.png" width="220" alt="OSHWA certification UK000086">
+</a>
 
 OSHWA UID: UK000086
 Full record: CERTIFICATION.md
