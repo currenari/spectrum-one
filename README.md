@@ -20,7 +20,7 @@ This repository contains the reference implementation of the device.
 
 ---
 
-## About the Book — Second Edition
+## About the Book — Second Edition (Free)
 
 The book that accompanies this project documents the full development of Spectrum One — from early breadboard experiments through to a finished, certified PCB design. It covers hardware design decisions, firmware behaviour, display logic, and the messy reality of turning a prototype into something reproducible.
 
@@ -32,8 +32,6 @@ The second edition is now available as a **free download** in PDF and EPUB:
 *by Jay J. Reszka*
 
 This second edition is licensed under **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**. You're free to share and adapt the text for non-commercial purposes, as long as you give appropriate credit and share any derivative work under the same licence.
-
-The first edition was a commercial publication on Amazon. That version may still be listed, but going forward, the second edition is the one I'm maintaining — and it's free. I'd rather have people actually read it than keep it behind a paywall.
 
 ---
 
@@ -79,6 +77,6 @@ Licensing is separated by material type:
 
 **Repository documentation and media** — Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-**Book (second edition)** — Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+**Book (second edition)** — Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0). Free download at [currenari.com/spectrum-one](https://currenari.com/spectrum-one/)
 
 Full licensing terms are defined in `LICENSE.md`.
