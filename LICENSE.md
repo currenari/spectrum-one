@@ -10,39 +10,37 @@ Each category is licensed separately and explicitly as defined below.
 The licenses defined in this document apply only to files and materials
 physically present within this repository.
 
-Any books, manuscripts, commercial publications, or other written works
-that are not included in this repository are explicitly excluded from
-these licenses and are not licensed under any terms described here.
-
-Books and commercial publications are intentionally distributed outside
-of this repository and remain proprietary. Revenue from these works
-supports the development and maintenance of this project and future
-projects.
+Books, manuscripts, and other written works are distributed separately
+from this repository. Their licensing terms are described in this
+document for clarity but are governed independently.
 
 ---
 
-## 1. BOOKS, MANUSCRIPTS, AND COMMERCIAL WRITTEN WORKS
+## 1. BOOK
 
-All long-form written works created by the author, including but not
-limited to:
+The book accompanying this project:
 
-- Books (print and digital)
-- Manuscripts and drafts
-- PDF, EPUB, MOBI, AZW, DOCX, and similar formats
-- Editorial structure, instructional flow, and presentation as published
-- Text, diagrams, and photography as presented in commercial publications
+**ESP32 WiFi Activity Monitor: Spectrum One – From Breadboard Prototype
+to Custom PCB**
 
-are proprietary works.
+by Jay J. Reszka, published under the Currenari Lab label, is available
+as a free download in PDF and EPUB formats at:
+
+https://currenari.com/spectrum-one/
+
+This work is licensed under the
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0
+International License (CC BY-NC-SA 4.0)**.
+
+You are free to share and adapt the book for non-commercial purposes,
+provided you give appropriate credit and distribute any derivative work
+under the same licence.
+
+Full licence text: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Copyright © 2026 Jarosław Reszka  
 Published under the pen name Jay J. Reszka  
-Released under the Currenari Lab label  
-All rights reserved.
-
-This material is protected by copyright law. No part of it may be copied,
-reproduced, distributed, translated, adapted, or reused without explicit
-written permission from the copyright holder, except where permitted by
-applicable law.
+Released under the Currenari Lab label
 
 This section does not apply to repository-level documentation files
 required for open hardware compliance.
@@ -67,7 +65,7 @@ and reproduce the open hardware and software contained in this
 repository.
 
 This license does not apply to any books, manuscripts, or commercial
-publications, which are explicitly excluded and remain proprietary.
+publications, which are governed by their own terms as described above.
 
 ---
 
@@ -87,7 +85,7 @@ copies of the software, subject to the following conditions:
 The above copyright notice and this permission notice shall be included
 in all copies or substantial portions of the software.
 
-The software is provided “as is”, without warranty of any kind, express
+The software is provided "as is", without warranty of any kind, express
 or implied.
 
 ---
@@ -138,10 +136,8 @@ The following applies, in order of scope:
 
 - Hardware design files are licensed under CERN-OHL-S-2.0
 
-- Books, manuscripts, commercial publications, and their associated text,
-  photographs, diagrams, graphics, and layouts that are not included in
-  this repository are proprietary and not licensed under the terms
-  defined here
+- The book is licensed under CC BY-NC-SA 4.0 and distributed separately
+  at https://currenari.com/spectrum-one/
 
 Licensing of one category does not grant rights to any other category.
 
@@ -157,5 +153,3 @@ No trademark rights are granted by this license unless explicitly stated.
 ---
 
 END OF LICENSE
-
-
