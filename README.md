@@ -1,6 +1,9 @@
 # Spectrum One
 
 Spectrum One is a compact ESP32-based WiFi activity monitor that visualises nearby WiFi activity using a 16×2 LCD and a 10-segment LED bar.
+<p align="center">
+  <img src="media/spectrum_one_sm.jpg" alt="Spectrum One – ESP32 WiFi Activity Monitor" width="900">
+</p>
 
 It works by running repeated WiFi scans and turning the results into something you can actually see — live signal bars, changing numbers, blinking LEDs. The values shown are derived from WiFi RSSI and are meant for visualisation and comparison, not calibrated RF measurement.
 
