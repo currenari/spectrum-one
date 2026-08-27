@@ -36,7 +36,7 @@ ESP-IDF firmware source code.
 KiCad schematics, PCB layouts, symbols, footprints, and fabrication outputs.
 
 **docs/**  
-Repository documentation and technical notes.
+Repository documentation, technical notes, and [ESP32 WiFi Activity Monitor PDF Book (Direct Download)](https://github.com/currenari/spectrum-one/raw/main/docs/ESP32%20WiFi%20Activity%20Monitor.pdf).
 
 **media/**  
 Images and diagrams used by the repository documentation.
